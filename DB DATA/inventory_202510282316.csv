@@ -1,0 +1,3 @@
+"inventory_id","warehouse_id","product_id","vendor_id","quantity","last_updated"
+"909753ca-18d6-4937-8c93-4fb6a0cadac4",WH1,PROD01,VEN123456,100,"2025-10-28 22:12:34"
+INV001,WH001,PROD001,VEND001,50,"2025-09-03 12:00:17"

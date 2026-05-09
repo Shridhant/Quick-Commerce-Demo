@@ -1,0 +1,8 @@
+"vendor_id","business_owner_name","name","password","email","phone","address_line1","address_line2","city","state","postal_code","latitude","longitude","status","country","isActive","isDocumentUploaded","isDocumentVerified","gstId","gstFile","tradeLicenseFile","store_image","remarks","created_at"
+V001,Rahul Sharma,FreshMart,hashed_pass1,contact@freshmart.com,"9876543210","123 Market Street",,Mumbai,Maharashtra,"400001",19.076,72.8777,ACTIVE,India,1,1,1,GSTIN1234,,,,,"2025-09-03 00:46:32"
+V002,Anita Singh,DailyNeeds,hashed_pass2,info@dailyneeds.com,"9123456780","45 Station Road",,Delhi,Delhi,"110001",28.7041,77.1025,ACTIVE,India,1,0,1,GSTIN5678,,,,,"2025-09-03 00:46:32"
+V003,,Quick Mart,,vendor@example.com,"213213123","123 Main Street",Suite 4B,saket,delhi,"797112",123.0,123123.0,ACTIVE,india,1,1,1,"123123",VENDOR-GSTFile-1754463616782-395985811.jpeg,VENDOR-tradeLicense-1754463616775-167672188.jpeg,VENDOR-storeImage-1754463616784-91554087.jpeg,Good doc,"2025-08-06 12:30:16"
+VEN123456,John Doe,Doe Store,,john@example.com,"1234567890",,,,,,,,active,,1,0,0,,,,,,"2025-10-28 22:10:48"
+VEND-001,John Doe,FreshMart,hashed_password,vendor@freshmart.com,"9876543210","123 Market Street",,Mumbai,Maharashtra,"400001",,,ACTIVE,India,1,0,0,,,,,,"2025-08-27 10:46:54"
+VEND001,John Doe,FreshMart,hashed_password,freshmart@example.com,+911234567890,"123 Main St",Suite 10,Mumbai,Maharashtra,"400001",19.076,72.8777,ACTIVE,India,1,1,1,GST1234567,gst.pdf,license.pdf,store.jpg,Top vendor,"2025-09-03 11:50:11"
+VEND002,,DailyMart Wholesalers,hashed_pass2,dailymart@example.com,"9123456780","45 Wholesale Lane","",Bengaluru,Karnataka,"560001",,,ACTIVE,India,1,1,0,GSTIN67890,"","","",,"2025-08-20 11:47:33"

@@ -1,0 +1,5 @@
+"order_id","vendor_id","warehouse_id","type","order_status","product_status","created_at","remarks"
+O1001,V001,WH001,"",PENDING,PENDING,"2025-09-03 00:46:45",Deliver ASAP
+O1002,V002,WH001,offline,PENDING,PENDING,"2025-09-03 00:46:45",Customer will pick up
+ORD001,VEND001,WH001,ADD_PRODUCT,PENDING,PENDING,"2025-09-03 11:56:23",First test order
+ORD123456,VEN123456,WH1,RESTOCK_PRODUCT,APPROVED,APPROVED,"2025-10-28 22:11:23",Approved after verification

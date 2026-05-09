@@ -1,0 +1,6 @@
+"product_id","name","description","category","unit","image_url","price","is_active","sku","brand","tags","created_at"
+PROD-001,Organic Basmati Rice,Premium long grain organic basmati rice,"1","5kg Bag",https://example.com/images/rice.jpg,1200.00,1,SKU-RICE-001,Daawat,"organic,gluten-free,staples","2025-08-27 10:47:08"
+PROD001,Coca Cola 500ml,Refreshing soft drink,"1",bottle,https://via.placeholder.com/150,40.00,1,SKU-COCA-500,Coca Cola,"drink,beverage,cola","2025-08-20 11:47:43"
+PROD002,Lays Classic Salted,Crispy potato chips,"2",packet,https://via.placeholder.com/150,20.00,1,SKU-LAYS-001,Lays,"snack,crispy,chips","2025-08-20 11:47:43"
+PROD003,Amul Milk 1L,Toned milk 1 liter pack,"3",pack,https://via.placeholder.com/150,55.00,1,SKU-AMUL-1L,Amul,"milk,dairy,amul","2025-08-20 11:47:43"
+PROD01,Milk 1L,Fresh milk,Dairy,Liter,,50.00,1,MILK-1L,Amul,"dairy,milk","2025-10-28 22:11:37"
