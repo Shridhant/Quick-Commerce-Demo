@@ -1,7 +1,0 @@
-"id","order_id","requested_quantity","product_name","product_brand","product_sku","product_unit","product_image_url","product_description","product_category","product_price","product_tags","product_id","offer_price","expiry_date","unit_size","created_at"
-1,O1001,2,Organic Apples,FreshFarm,APL123,kg,https://example.com/images/apples.jpg,Fresh organic apples from Himachal,Fruits,120.00,"organic,fruit,healthy",P001,100.00,"2025-12-31 00:00:00",1,"2025-09-03 00:46:51"
-2,O1001,1,Amul Milk 1L,Amul,MLK456,litre,https://example.com/images/milk.jpg,Fresh Amul toned milk 1L pack,Dairy,60.00,"milk,dairy,fresh",P002,55.00,"2025-09-30 00:00:00",1,"2025-09-03 00:46:51"
-3,O1002,3,Parle-G Biscuits,Parle,BSC789,pack,https://example.com/images/biscuits.jpg,Parle-G 100g pack,Snacks,10.00,"biscuits,snacks",P003,9.00,"2026-01-15 00:00:00",1,"2025-09-03 00:46:51"
-4,ORD001,50,Organic Apples,FreshFarm,SKU123,kg,https://example.com/apple.jpg,Crisp organic apples from Himachal,Fruits,120.00,"organic,apple,fruit",PROD001,100.00,"2025-12-31 23:59:59",1,"2025-09-03 11:56:34"
-5,ORD001,20,Organic Apples,FreshFarm,SKU123,kg,https://example.com/apple.jpg,Fresh Himachal apples,Fruits,120.00,"organic,apple,fruit",PROD001,100.00,"2025-12-31 23:59:59",1,"2025-09-03 12:00:36"
-6,ORD123456,100,Milk 1L,Amul,MILK-1L,Liter,,,Dairy,50.00,,PROD01,,,,"2025-10-28 22:11:43"
