@@ -1,0 +1,15 @@
+import dotenv from "dotenv";
+import {Secret} from "jsonwebtoken";
+dotenv.config();
+export const ACCESS_TOKEN_SECRET = process.env.SECRET_KEY as Secret;
+export const REFRESH_TOKEN_SECRET = process.env.REFRESH_TOKEN_SECRET as string;
+export const MYSQL_HOST = process.env.DBHOST as string;
+export const MYSQL_USER = process.env.DBUSER as string;
+export const MYSQL_PASSWORD = process.env.DBPASSWORD as string;
+export const MYSQL_DATABASE = process.env.DATABASE as string;
+export const REFRESH_TOKEN_EXPIRES = process.env.REFRESH_TOKEN_EXPIRES_IN as string;
+export const TOKEN_EXPIRES_IN = process.env.TOKEN_EXPIRES_IN as string;
+export const NODE_ENV = process.env.NODE_ENV || 'development' as string;
+export const DEVELOPMENT_IP = process.env.DEVELOPMENT_IP || 'http://localhost:5173' as string;
+export const REDIS_URL = process.env.REDIS_URL as string;
+export const LOW_ALERT_THRESHOLD = parseInt(process.env.LOW_ALERT_THRESHOLD as string) || 10;
